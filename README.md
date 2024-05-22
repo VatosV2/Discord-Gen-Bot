@@ -7,7 +7,7 @@
   <h3 align="center">[Nexus Gen Bot] - discord.gg/nexustools</h3>
 
   <p align="center">
-    Nexus Gen bot - Take your Gen server to the text level.
+    Nexus Gen bot - Take your Gen server to the Next level.
     <br/>
     <br/>
     <a href="https://discord.gg/nexustools">Discord</a>
