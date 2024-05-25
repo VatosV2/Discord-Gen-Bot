@@ -62,25 +62,26 @@ Logs                         ✅
     "bot_token": "bot_token",
     "owner_id": 1234567891011121134,
     "server_id": 1234567891011121134,
+    "bot_status": "discord.gg/nexustools",
     "free_gen": {
         "free_gen_role": 1234567891011121134,
         "free_gen_channel": 1234567891011121134,
         "free_gen_status": "discord.gg/nexustools",
         "status_log_channel": 1234567891011121134,
         "free_gen_cooldown": 120,
-        "free_gen_folder": "stock"
+        "free_gen_folder": "stocks/stock"
     },
     "boost_gen": {
         "boost_gen_role": 1234567891011121134,
         "boost_gen_channel": 1234567891011121134,
         "boost_gen_cooldown": 60,
-        "boost_gen_folder": "boost_gen_stock"
+        "boost_gen_folder": "stocks/boost_gen_stock"
     },
     "premium_gen": {
         "premium_gen_role": 1234567891011121134,
         "premium_gen_channel": 1234567891011121134,
         "premium_gen_cooldown": 120,
-        "premium_gen_folder": "premium_gen_stock"
+        "premium_gen_folder": "stocks/premium_gen_stock"
     },
     "logs": {
         "free_gen_log_webhook": "Discord Webhook To log Free gen",
