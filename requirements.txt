@@ -1,0 +1,4 @@
+py-cord
+pycord
+requests
+colorama
