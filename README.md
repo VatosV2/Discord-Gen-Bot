@@ -20,7 +20,8 @@
 ![ss](https://media.discordapp.net/attachments/1202027634037620786/1242813184994443385/8AA85B1D-7AC2-4380-9BFD-BBEB4D81CE16.jpg?ex=664f3379&is=664de1f9&hm=b8644b5f608481ab9b1a95bf772f998361ce957652765300173b316d1787531a&=&format=webp&width=1246&height=701)
 
 ## Release
-- 25 Stars For Release ⭐ ❌
+- 25 Stars For Release ⭐ ✅
+- 50 Stars For V2 ⭐ ❌
 
 ## Functions
 ```yaml
