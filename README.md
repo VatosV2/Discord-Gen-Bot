@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/VatosV2/Nexus-MultiTool">
-    <img src="https://cdn.discordapp.com/attachments/1209895707675205653/1209919950689411092/RmDJt7xVhNFTA6yvy3EWfsTbki45EeI67K93h75F_1.png?ex=66499303&is=66484183&hm=71e465675a795e95734ca80f5c82830917e77e532c2d9d7b98cedcf48214fcc0&" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/1209895707675205653/1209919950689411092/RmDJt7xVhNFTA6yvy3EWfsTbki45EeI67K93h75F_1.png?ex=66654283&is=6663f103&hm=99f81d951f0445975586fbedb3c2769d42b70d4a36938c870dd266c8f51ca657&" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">[Nexus Gen Bot] - discord.gg/nexustools</h3>
@@ -15,9 +15,11 @@
 </p>
 <h3 align="center";">Please Star To support this project for free! ⭐</h3>
 <h3 align="center";">Linux is Supported! ✅</h3>
+<br/>
+<h3 align="center";>  https://nexustools.de/ </h3>
 
 ## Screenshot
-![ss](https://media.discordapp.net/attachments/1202027634037620786/1242813184994443385/8AA85B1D-7AC2-4380-9BFD-BBEB4D81CE16.jpg?ex=664f3379&is=664de1f9&hm=b8644b5f608481ab9b1a95bf772f998361ce957652765300173b316d1787531a&=&format=webp&width=1246&height=701)
+![ss](https://repository-images.githubusercontent.com/803993834/39e7da65-32b2-49cc-b832-fce6f563eae0)
 
 ## Release
 - 25 Stars For Release ⭐ ✅
