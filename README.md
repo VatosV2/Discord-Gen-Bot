@@ -92,5 +92,5 @@ Logs                         ✅
         "premium_gen_log_webhook": "Discord Webhook To log premium gen",
         "admin_commands_log_webhook": "Discord Webhook To log admin commands"
     }
-}
+} 
 ```
