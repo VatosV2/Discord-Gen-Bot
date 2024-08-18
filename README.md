@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/VatosV2/Nexus-MultiTool">
+  <a href="https://github.com/VatosV2/Discord-Gen-Bot">
     <img src="https://nexustools.de/Assets/images/025111e73c9100f75a2f4adfc06161df.png" alt="Logo" width="80" height="80">
   </a>
 
